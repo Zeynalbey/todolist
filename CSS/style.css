@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    padding: 100px;
+}
+
+header{
+    background-color: rgb(195, 195, 195);
+    text-align: center;
+    padding: 20px 30px;
+    width: 50%;
+}
+
+header input{
+    width: 50%;
+}
+header .title{
+    color: white;
+}
+
+
+header #button{
+    background-color: green;
+    color: white;
+    padding: 0 8px;
+}
+
+#myUl{
+
+    margin: 0;
+
+
+    font-size: 18px;
+
+    width: 50%;
+
+
+
+}
+
+.second{
+    background-color:#c78686 ;
+    margin: 5px 0;
+    padding: 0px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+    color: white;
+
+
+}
+
+
+
+
+
+
+
+
+
